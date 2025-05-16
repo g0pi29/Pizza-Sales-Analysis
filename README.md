@@ -27,10 +27,6 @@ The Excel dashboard provides interactive visualizations, including:
 - 📊 `pizza_sales_project.xlsx` → Interactive Excel dashboard.
 - 🖼 `images/` → Screenshots of the dashboard.
 
-## 📸 **Dashboard Preview**
-
-![Pizza Sales Dashboard](images/dashboard.png)
-
 ## 🛠 **Tools Used**
 
 - **SQL** → Data extraction & analysis
